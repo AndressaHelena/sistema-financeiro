@@ -7,7 +7,7 @@ import { categories } from './data/categories';
 
 const App = () => {
   const[list, setList] = useState(items);
-  const [currentMonth, setCurrentMonth] = useState()
+  //const [currentMonth, setCurrentMonth] = useState()
 
   return (
     <C.Container>
