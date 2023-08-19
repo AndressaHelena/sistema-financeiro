@@ -27,15 +27,15 @@ export const items: Item[] = [
         value: 39.90
     },
     {
-        date: new Date(2023,9,23),
+        date: new Date(2023,8,23),
         category: 'rent',
         title: 'Casa da Praia',
         value: 1300
     },
     {
-        date: new Date(2023,9,30),
+        date: new Date(2023,8,30),
         category: 'salary',
         title: 'Salário',
-        value: 1500
+        value: 4500
     },
 ];
